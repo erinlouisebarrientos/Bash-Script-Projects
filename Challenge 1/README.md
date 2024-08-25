@@ -132,11 +132,11 @@ After this, you can run the script with the following command:
 ```
 e.g. In the Linux terminal, run the script ‘installinggit.sh’ 
 
-![Installation unsuccessful, uname is not Linux](Challenge 1/Not Installed.png)
+![Installation unsuccessful, uname is not Linux](erinlouisebarrientos/Bash-Script-Projects/Challenge 1/Git Installed.png)
 
-![Intallation successful, uname is Linux](Challenge 1/Git Installed.png)
+![Intallation successful, uname is Linux](erinlouisebarrientos/Bash-Script-Projects/Challenge 1/Git Installed.png)
 
-![No changes, already installed](Challenge 1/Already Installed.png)
+![No changes, already installed](erinlouisebarrientos/Bash-Script-Projects/Challenge 1/Already Installed.png)
 
 
 ## NOTES 
